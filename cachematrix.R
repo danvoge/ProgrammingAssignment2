@@ -8,7 +8,7 @@
 ## 4. get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
-
+print ("hello")
 }
 
 
@@ -17,4 +17,5 @@ makeCacheMatrix <- function(x = matrix()) {
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
+  print ("hello")
 }
